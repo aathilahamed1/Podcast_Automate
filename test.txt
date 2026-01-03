@@ -2,7 +2,7 @@ Podcast Content Automation – AI Powered Podcast Assistant
 
 An AI-powered platform that automatically generates high-quality content assets from podcast audio or YouTube podcast links. The system analyzes podcast content and produces ready-to-use summaries, social media posts, blog articles, promotional captions, and more — saving creators hours of manual work.
 
-🚀 Key Features
+🚀 Key Feature
 
 🎧 Input Options
 
